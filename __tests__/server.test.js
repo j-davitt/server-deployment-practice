@@ -22,5 +22,5 @@ describe('API Server', () => {
 
     expect(response.status).toEqual(500);
     expect(response.body.route).toEqual('/bad');
-  })
+  });
 });
