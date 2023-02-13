@@ -10,9 +10,9 @@ Concise Description of why this app exists
 
 ### Links and Resources
 
-- [GitHub Actions ci/cd](https://github.com/rkgallaway/server-deployment-practice-d51/actions)
-- [back-end server url](http://xyz.com) (when applicable)
-- [front-end application](http://xyz.com) (when applicable)
+- [GitHub Actions ci/cd](https://github.com/j-davitt/server-deployment-practice/actions)
+- [back-end server url](http://xyz.com)
+
 
 ### Setup
 
