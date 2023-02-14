@@ -1,17 +1,17 @@
 # LAB - Class 01
 
-## Project: Project Name Here
+## Project: Server Practice
 
 ### Author: Joe Davitt
 
 ### Problem Domain
 
-Concise Description of why this app exists
+To practice server deployment
 
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/j-davitt/server-deployment-practice/actions)
-- [back-end server url](http://xyz.com)
+- [back-end server url](https://server-deployment-practice-95eq.onrender.com)
 
 
 ### Setup
@@ -40,4 +40,4 @@ for now I have none and do not require one
 
 #### UML
 
-Link to an image of the UML for your application and response to events
+![Lab 1](./assets/Lab1WB.png)
